@@ -1,0 +1,11 @@
+#map {
+	bottom: 0px;
+	height: 100%;
+	left: 20%;
+	position: absolute;
+	right: 0px;
+}
+
+.restaurants {
+	cursor: pointer;
+}
